@@ -1,0 +1,6 @@
+✅ "I built a Python app that fetches real GitHub Actions data and calculates pipeline success rates"
+✅ "I containerized it with Docker and ran it alongside Prometheus and Grafana using docker-compose"
+✅ "I implemented the CI/CD pipeline on both GitHub Actions and Azure DevOps"
+✅ "I provisioned the infrastructure using Terraform — no manual console clicks"
+✅ "I added automated weekly Trivy security scanning as a scheduled workflow"
+✅ "Every tool in this project I can explain line by line because I wrote it myself"
